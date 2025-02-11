@@ -27,8 +27,8 @@ This is a simple React application that allows users to filter tasks based on co
 
 1- Clone the repository:
 ```ts
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/sajjadshiasi/zarban.git
+cd zarban
 ```
 2- Install dependencies:
 
